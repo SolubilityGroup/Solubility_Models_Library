@@ -12,11 +12,9 @@
 
 # Solubility Models
 
-    `modified_apelblat(dataset)`
-    `vant_hoff(dataset)`
-    `vant_hoff_yaws(dataset)`
-    `modified_wilson(dataset)`
-    `buchowski_ksiazaczak(dataset,Tf)`
-    `NRTL(dataset,Tf,ΔHf)`
-    `wilson(dataset,Tf,ΔHf)`
-    `weilbull(dataset,Tf,ΔHf)`
+##  Installation
+TermodynamicSolutions may be installed using pip...
+<center> pip install TermodynamicSolutions </center> 
+To import the SolubilityModels module you can use:
+from TermodynamicSolutions import SolubilityModels
+
