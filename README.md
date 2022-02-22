@@ -21,3 +21,20 @@ To import the SolubilityModels module you can use:
 
 ```from TermodynamicSolutions import SolubilityModels```
 
+###  Google Colaboratory Support
+For use in Google Colab import  files module of colab using:
+
+```from google.colab import files```
+
+should also install plotly-orca packages using:
+
+```should also install plotly-orca packages using:
+!wget https://github.com/plotly/orca/releases/download/v1.2.1/orca-1.2.1-x86_64.AppImage -O /usr/local/bin/orca
+!chmod +x /usr/local/bin/orca
+!apt-get install xvfb libgtk2.0-0 libgconf-2-4```
+
+### Jupyter Notebook and JupyterLab Support
+
+
+
+
