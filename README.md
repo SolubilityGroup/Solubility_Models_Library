@@ -44,7 +44,7 @@ conda install -c plotly python-kaleido
 ```
 ## Maintainers
 
-**Jhonny Osorio Gallego**
-**Rossember Eden Cárdenas**
-**Daniel Ricardo Delgado**
+- **Jhonny Osorio Gallego**
+- **Rossember Eden Cárdenas**
+- **Daniel Ricardo Delgado**
 
