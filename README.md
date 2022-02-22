@@ -12,6 +12,9 @@
 
 # Solubility Models
 
+Solubility Models is a module of the Thermodinamic Solution library for the calculation of fit parameters, statistics and graphical representation of calculated and experimental data of models such as : 
+
+
 ##  Installation
 TermodynamicSolutions may be installed using pip...
 
