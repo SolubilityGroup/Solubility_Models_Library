@@ -14,7 +14,8 @@
 
 ##  Installation
 TermodynamicSolutions may be installed using pip...
- ```pip install TermodynamicSolutions ```
+
+ <p align=center> ```pip install TermodynamicSolutions ```
 
 
 
