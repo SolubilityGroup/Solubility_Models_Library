@@ -53,6 +53,11 @@ For use in Jupyter Notebook and JupyterLab  install jupyter-dash and  python-kal
 conda install -c plotly jupyter-dash
 conda install -c plotly python-kaleido
 ```
+## link to test notebook
+
+[1. Resolución de sistemas de ecuaciones](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Sistema_de_ecuaciones.ipynb)
+
+
 ## Maintainers
 
 - **Jhonny Osorio Gallego**
