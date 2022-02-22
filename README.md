@@ -32,5 +32,13 @@ should also install plotly-orca packages using:
 ```
 !wget https://github.com/plotly/orca/releases/download/v1.2.1/orca-1.2.1-x86_64.AppImage -O /usr/local/bin/orca
 !chmod +x /usr/local/bin/orca
-!apt-get install xvfb libgtk2.0-0 libgconf-2-4```
+!apt-get install xvfb libgtk2.0-0 libgconf-2-4
+```
 
+###  Jupyter Notebook and JupyterLab Support
+
+For use in Jupyter Notebook and JupyterLab  install jupyter-dash and  python-kaleido packages using:
+```
+conda install -c plotly jupyter-dash
+conda install -c plotly python-kaleido
+```
