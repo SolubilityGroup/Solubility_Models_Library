@@ -12,3 +12,11 @@
 
 # Solubility Models
 
+    `modified_apelblat(dataset)`
+    `vant_hoff(dataset)`
+    `vant_hoff_yaws(dataset)`
+    `modified_wilson(dataset)`
+    `buchowski_ksiazaczak(dataset,Tf)`
+    `NRTL(dataset,Tf,ΔHf)`
+    `wilson(dataset,Tf,ΔHf)`
+    `weilbull(dataset,Tf,ΔHf)`
