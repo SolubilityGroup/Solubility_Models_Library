@@ -10,14 +10,5 @@
 <div style="text-align: justify;">Thus,&nbsp;we&nbsp;present&nbsp;a&nbsp;computer&nbsp;tool&nbsp;in&nbsp;Python&nbsp;code&nbsp;that&nbsp;provides&nbsp;an&nbsp;easy&nbsp;way&nbsp;to&nbsp;evaluate&nbsp;the&nbsp;solubility&nbsp;behavior&nbsp;of&nbsp;drugs&nbsp;in&nbsp;cosolvent&nbsp;systems,&nbsp;according&nbsp;to&nbsp;different&nbsp;mathematical&nbsp;models.</div>
 </div>
 
-    # solubility models
-    -----------------
-    `modified_apelblat(dataset)`
-    `vant_hoff(dataset)`
-    `vant_hoff_yaws(dataset)`
-    `modified_wilson(dataset)`
-    `buchowski_ksiazaczak(dataset,Tf)`
-    `NRTL(dataset,Tf,ΔHf)`
-    `wilson(dataset,Tf,ΔHf)`
-    `weilbull(dataset,Tf,ΔHf)`
-    """
+<p><strong>solubility models</strong><br /><br />`modified_apelblat(dataset)`<br />`vant_hoff(dataset)`<br />`vant_hoff_yaws(dataset)`<br />`modified_wilson(dataset)`<br />`buchowski_ksiazaczak(dataset,Tf)`<br />`NRTL(dataset,Tf,&Delta;Hf)`<br />`wilson(dataset,Tf,&Delta;Hf)`<br />`weilbull(dataset,Tf,&Delta;Hf)`<br /><br /></p>
+
