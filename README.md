@@ -55,7 +55,7 @@ conda install -c plotly python-kaleido
 ```
 ## Link to test notebook
 
-[1. Test Notebook Thermodynamic Solutions](https://colab.research.google.com/github/josorio398/SOLUBILITY-MODELS-LIBRARY/blob/main/Test_Notebook_Thermodynamic_Solutions.ipynb)
+[Test Notebook Thermodynamic Solutions](https://colab.research.google.com/github/josorio398/SOLUBILITY-MODELS-LIBRARY/blob/main/Test_Notebook_Thermodynamic_Solutions.ipynb)
 
 
 ## Maintainers
