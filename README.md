@@ -29,7 +29,8 @@ For use in Google Colab import  files module of colab using:
 
 should also install plotly-orca packages using:
 
-```!wget https://github.com/plotly/orca/releases/download/v1.2.1/orca-1.2.1-x86_64.AppImage -O /usr/local/bin/orca
+```
+!wget https://github.com/plotly/orca/releases/download/v1.2.1/orca-1.2.1-x86_64.AppImage -O /usr/local/bin/orca
 !chmod +x /usr/local/bin/orca
 !apt-get install xvfb libgtk2.0-0 libgconf-2-4```
 
