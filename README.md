@@ -14,7 +14,7 @@
 
 ##  Installation
 TermodynamicSolutions may be installed using pip...
-<center> pip install TermodynamicSolutions </center> 
-To import the SolubilityModels module you can use:
-from TermodynamicSolutions import SolubilityModels
+ ```pip install TermodynamicSolutions ```
+
+
 
