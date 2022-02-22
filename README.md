@@ -42,3 +42,9 @@ For use in Jupyter Notebook and JupyterLab  install jupyter-dash and  python-kal
 conda install -c plotly jupyter-dash
 conda install -c plotly python-kaleido
 ```
+## Maintainers
+
+**Jhonny Osorio Gallego**
+**Rossember Eden Cárdenas**
+**Daniel Ricardo Delgado**
+
