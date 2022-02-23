@@ -62,5 +62,6 @@ conda install -c plotly python-kaleido
 
 - **Jhonny Osorio Gallego**
 - **Rossember Eden Cárdenas**
+- **Claudia Patricia Ortiz**
 - **Daniel Ricardo Delgado**
 
