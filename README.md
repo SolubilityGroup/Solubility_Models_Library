@@ -15,10 +15,10 @@
 Solubility Models is a module of the Thermodinamic Solution Library for the calculation of fit parameters, statistics and graphical representation of calculated and experimental values of models such as : 
 
 - Modified Apelblat
-- Vant Hoff
-- Van't Hoff Yaws
+- van't Hoff
+- Van't Hoff-Yaws
 - Modified Wilson
-- Buchowski Ksiazaczak (λh model)
+- Buchowski Ksiazaczak λh 
 - NRTL
 - Wilson
 - Weilbull of two parameters
