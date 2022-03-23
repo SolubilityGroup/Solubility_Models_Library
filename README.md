@@ -53,7 +53,7 @@ For use in Jupyter Notebook and JupyterLab  install jupyter-dash and  python-kal
 conda install -c plotly jupyter-dash
 conda install -c plotly python-kaleido
 ```
-## Link to test notebook
+## Link for test notebook
 
 [Test Notebook Thermodynamic Solutions](https://colab.research.google.com/github/josorio398/SOLUBILITY-MODELS-LIBRARY/blob/main/Test_Notebook_Thermodynamic_Solutions.ipynb)
 
