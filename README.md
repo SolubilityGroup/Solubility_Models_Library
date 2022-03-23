@@ -21,7 +21,7 @@ Solubility Models is a module of the Thermodinamic Solution Library for the calc
 - Buchowski Ksiazaczak λh 
 - NRTL
 - Wilson
-- Weilbull of two parameters
+- Weibull of two parameters
 
 ##  Installation
 TermodynamicSolutions may be installed using pip...
