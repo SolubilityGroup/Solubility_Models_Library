@@ -6545,23 +6545,23 @@ class models(model.modified_apelblat,model.vant_hoff,model.vant_hoff_yaws,model.
         fig = make_subplots(rows=rows, cols=cols,subplot_titles=names)
         
         for i in range(len(names_model)):
-            fig.add_trace(go.Scatter(x=L_cal[i],y=L_exp[i],
+            fig.add_trace(go.Scatter(x=L_exp[i],y=L_cal[i],
                                          name = "",
-                                         hovertemplate="x3_cal: %{x}<br>x3_exp: %{y}<br>",
+                                         hovertemplate="x3_exp: %{x}<br>x3_cal: %{y}<br>",
                                          mode='markers',
                                          showlegend= False,
                                          marker=dict(size=6,line=dict(width=0.5,color='DarkSlateGrey'))),
                                          row=L_row[i], col=L_col[i])
             
         for i in range(len(names_model)):
-            X = np.linspace(min(L_cal[i]),max(L_cal[i]),200)
+            X = np.linspace(min(L_exp[i]),max(L_exp[i]),200)
             fig.add_trace(go.Scatter(x=X,y=X,showlegend= False,marker=dict(size=6,line=dict(width=0.5,color="#2a3f5f")),hoverinfo = "skip"),row=L_row[i], col=L_col[i])
 
         for i in range(len(names_model)):
-            fig.update_xaxes(title = "$x3^{Cal}$")
+            fig.update_xaxes(title = "x<sub>3</sub><sup>Exp</sup>")
 
         for i in range(len(names_model)):
-            fig.update_yaxes(title = "$x3^{Exp}$")
+            fig.update_yaxes(title = "x<sub>3</sub><sup>Cal</sup>")
             
         fig.update_layout(height=height, width=width,showlegend=False)
         return fig.show()
