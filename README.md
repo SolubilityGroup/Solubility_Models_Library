@@ -16,7 +16,7 @@ Solubility Models is a module of the Thermodinamic Solution Library for the calc
 
 - Modified Apelblat
 - van't Hoff
-- Van't Hoff-Yaws
+- van't Hoff-Yaws
 - Modified Wilson
 - Buchowski Ksiazaczak λh 
 - NRTL
