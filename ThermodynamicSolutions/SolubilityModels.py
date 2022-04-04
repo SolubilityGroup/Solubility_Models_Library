@@ -1,7 +1,6 @@
 import sys 
 import pandas as pd
 import numpy as np
-from google.colab import files
 from IPython.display import display, Math, Latex, Markdown,HTML
 from IPython.core.display import display, HTML
 from scipy.optimize import curve_fit
@@ -23,6 +22,13 @@ import subprocess
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
+
+global entorno
+entorno = str(sys.executable)
+
+if entorno == "/usr/bin/python3" :
+    from google.colab import files
+    
 
 def data_upload(name):
     nombre = name
