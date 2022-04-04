@@ -1,6 +1,7 @@
 import sys 
 import pandas as pd
 import numpy as np
+from google.colab import files
 from IPython.display import display, Math, Latex, Markdown,HTML
 from IPython.core.display import display, HTML
 from scipy.optimize import curve_fit
